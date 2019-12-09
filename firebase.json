@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "pi-brintec",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
